@@ -1,4 +1,4 @@
-package com.chandannbhat.upport;
+package com.upport.kpl;
 
 import org.junit.Test;
 

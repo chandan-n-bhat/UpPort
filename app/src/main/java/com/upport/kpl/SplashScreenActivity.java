@@ -1,4 +1,4 @@
-package com.chandannbhat.upport;
+package com.upport.kpl;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -23,6 +23,6 @@ public class SplashScreenActivity extends AppCompatActivity {
                 startActivity(intent);
                 finish();
             }
-        },3000);
+        },5000);
     }
 }
